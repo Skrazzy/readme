@@ -1,9 +1,11 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF7F00&height=120&section=header"/>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=FF7F00&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+Eu+sou+Skrazzy!+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Skrazzy&theme=darkhub&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=Skrazzy&cc=fff&tc=FF7F00&ic=FF7F00&bc=fff" />
 </p>
 
 <div align="center">
@@ -43,7 +45,7 @@
 
 <div align="center">
   <h3>👨‍💻 Visitantes</h3>
-  <img src="https://profile-counter.glitch.me/Skrazzy/count.svg" />
+  <img src="https://profile-counter.glitch.me/Skrazzy/count.svg?color=FF7F00&labelColor=FFFFFF" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF7F00&height=120&section=footer"/>
