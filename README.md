@@ -45,7 +45,7 @@
 
 <div align="center">
   <h3>👨‍💻 Visitantes</h3>
-  <img src="https://profile-counter.glitch.me/Skrazzy/count.svg?color=FF7F00&labelColor=FFFFFF" />
+  <img src="http://veil-funny-polish.glitch.me/api/counter/Skrazzy?backgroundColor=FFFFFF&textColor=FF7F00&borderColor=FF7F00&borderWidth=2&borderRadius=5&fontSize=20&padding=10" alt="Profile Views Counter" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF7F00&height=120&section=footer"/>
