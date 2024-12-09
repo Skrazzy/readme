@@ -1,51 +1,55 @@
-# 👋 Olá, seja bem-vindo ao meu perfil!
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00B8D4&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Sempre+aprendendo+novas+tecnologias;Em+busca+de+novos+desafios" alt="Typing SVG" />
-</div>
+  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Skrazzy&fontSize=80&animation=fadeIn&fontAlignY=38)
 
-## 📊 Estatísticas do GitHub
+```typescript
+const profile = {
+    name: "Skrazzy",
+    location: "Brasil",
+    role: "Developer",
+    code: ["JavaScript", "TypeScript", "Python"],
+    askMeAbout: ["web dev", "tech", "gaming"],
+    technologies: {
+        current: ["React", "Node.js", "Next.js"],
+        learning: ["AI/ML", "Cloud Computing"]
+    }
+};
+```
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skrazzy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skrazzy&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-## 🚀 Tecnologias & Ferramentas
-
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-</div>
-
-## 🌟 Destaques
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Skrazzy&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📈 Contribuições
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skrazzy&theme=dracula" alt="GitHub Streak"/>
-</div>
-
-## 🤝 Conecte-se comigo
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:SEU_EMAIL">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=green" alt="Profile views"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skrazzy&theme=minimal&bg_color=ffffff&color=000000&line=00b8d4&point=00b8d4&area=true&hide_border=true" width="90%" alt="activity graph">
 </div>
 
----
+<br/>
 
-⭐️ From [SEU_USERNAME](https://github.com/SEU_USERNAME)
+<p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api?username=Skrazzy&cc=fff&tc=000&ic=000&bc=fff" alt="Stats">
+</p>
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Skrazzy&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+</p>
+
+<div align="center">
+  
+[![GitHub followers](https://img.shields.io/github/followers/Skrazzy?style=flat&logo=github)](https://github.com/Skrazzy?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/Skrazzy?style=flat&logo=github)](https://github.com/Skrazzy?tab=stars)
+  
+</div>
+
+<div align="center">
+  
+### Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
