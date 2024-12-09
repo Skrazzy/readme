@@ -1,49 +1,49 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3500&pause=1000&color=FF7F00&center=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+Eu+sou+Skrazzy!+%F0%9F%91%8B;Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Skrazzy&theme=darkhub&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
+</p>
+
 <div align="center">
-  
-# Olá, me chamo Skrazzy! 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=435&lines=Desenvolvedor+Full+Stack;Entusiasta+de+tecnologia;Sempre+aprendendo)](https://git.io/typing-svg)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Skrazzy&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF7F00&icon_color=FF7F00&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skrazzy&layout=compact&langs_count=7&theme=gruvbox&hide_border=true&bg_color=0d1117&title_color=FF7F00&icon_color=FF7F00&text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Skrazzy&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skrazzy&theme=github-dark&hide_border=true&background=0D1117"/>
+  <img src="https://streak-stats.demolab.com?user=Skrazzy&theme=dark&hide_border=true&background=0D1117&stroke=FF7F00&ring=FF7F00&fire=FF7F00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF7F00&sideLabels=FF7F00&dates=FFFFFF" />
+</div>
+
+### 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+### 📊 Contribuições
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Skrazzy&bg_color=0d1117&color=FF7F00&line=FF7F00&point=FFFFFF&area=true&hide_border=true" />
+
+### 🌐 Conecte-se comigo
+
+<div align="center">
+  <a href="mailto:seu.email@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=FF7F00" target="_blank">
+  </a>
+  <a href="https://linkedin.com/in/seu-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=FF7F00" target="_blank">
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skrazzy&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117"/>
+  <h3>👨‍💻 Visitantes</h3>
+  <img src="https://profile-counter.glitch.me/Skrazzy/count.svg" />
 </div>
 
-## Tecnologias que utilizo 🚀
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,docker,kubernetes,aws,mongodb,postgresql&theme=dark"/>
-</div>
-
-## Contribuições 📊
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skrazzy&theme=github_dark"/>
-</div>
-
-## Conecte-se comigo 🌐
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Skrazzy)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Skrazzy)
-
-</div>
-
-<div align="center">
-  
-### Visitantes 👀
-  
-<img src="https://profile-counter.glitch.me/Skrazzy/count.svg"/>
-  
-</div>
-
-<!-- Elementos decorativos -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF7F00&height=120&section=footer"/>
