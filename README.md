@@ -23,12 +23,12 @@
 
 ## 🌟 Destaques
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Skrazzy&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 Contribuições
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dracula" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skrazzy&theme=dracula" alt="GitHub Streak"/>
 </div>
 
 ## 🤝 Conecte-se comigo
